@@ -23,21 +23,21 @@
         >
           <li class="w-full">
             <a
-              class="block w-full px-4 py-2 text-13 font-medium text-gray-700 duration-300 bg-transparent dropdown-item whitespace-nowrap hover:translate-x-1.5 group-data-[theme-color=violet]:hover:text-violet-500  uppercase group-data-[mode=dark]:text-gray-50"
+              class="block w-full px-4 py-2 text-13 font-medium text-gray-700 duration-300 bg-transparent dropdown-item whitespace-nowrap hover:translate-x-1.5 hover:text-violet-500  uppercase group-data-[mode=dark]:text-gray-50"
               href="index.html"
               >Home 1</a
             >
           </li>
           <li class="w-full">
             <a
-              class="block w-full px-4 py-2 text-13 font-medium text-gray-700 duration-300 bg-transparent dropdown-item whitespace-nowrap hover:translate-x-1.5 group-data-[theme-color=violet]:hover:text-violet-500  uppercase group-data-[mode=dark]:text-gray-50"
+              class="block w-full px-4 py-2 text-13 font-medium text-gray-700 duration-300 bg-transparent dropdown-item whitespace-nowrap hover:translate-x-1.5 hover:text-violet-500  uppercase group-data-[mode=dark]:text-gray-50"
               href="index-2.html"
               >Home 2</a
             >
           </li>
           <li class="w-full">
             <a
-              class="block w-full px-4 py-2 text-13 font-medium text-gray-700 duration-300 bg-transparent dropdown-item whitespace-nowrap hover:translate-x-1.5 group-data-[theme-color=violet]:hover:text-violet-500  uppercase group-data-[mode=dark]:text-gray-50"
+              class="block w-full px-4 py-2 text-13 font-medium text-gray-700 duration-300 bg-transparent dropdown-item whitespace-nowrap hover:translate-x-1.5 hover:text-violet-500  uppercase group-data-[mode=dark]:text-gray-50"
               href="index-3.html"
               >Home 3</a
             >

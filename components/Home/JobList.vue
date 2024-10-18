@@ -35,8 +35,8 @@
                                     <div class="block w-full tab-pane" id="recent-job">
                                         <div class="pt-8 ">
                                             <div class="space-y-8">
-                                                <div class="relative mt-4 overflow-hidden transition-all duration-500 ease-in-out bg-white border rounded-md border-gray-100/50 group/jobs group-data-[theme-color=violet]:hover:border-violet-500      hover:-translate-y-2 dark:bg-neutral-900 dark:border-neutral-600 ">
-                                                        <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 group-data-[theme-color=violet]:bg-violet-500/20 /20 /20 /20 /20 /20 group-data-[theme-color=violet]:group-hover/jobs:bg-violet-500      transition-all duration-500 ease-in-out p-[6px] text-center dark:bg-violet-500/20">
+                                                <div class="relative mt-4 overflow-hidden transition-all duration-500 ease-in-out bg-white border rounded-md border-gray-100/50 group/jobs hover:border-violet-500      hover:-translate-y-2 dark:bg-neutral-900 dark:border-neutral-600 ">
+                                                        <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 bg-violet-500/20 /20 /20 /20 /20 /20 group-hover/jobs:bg-violet-500      transition-all duration-500 ease-in-out p-[6px] text-center dark:bg-violet-500/20">
                                                             <a href="javascript:void(0)" class="text-2xl text-white align-middle"><i class="mdi mdi-star"></i></a>
                                                         </div>
                                                         <div class="p-4">
@@ -58,7 +58,7 @@
                                                                 <div class="col-span-12 lg:col-span-3">
                                                                     <div class="mb-2 lg:flex">
                                                                         <div class="flex-shrink-0">
-                                                                            <i class="mr-1 group-data-[theme-color=violet]:text-violet-500      mdi mdi-map-marker"></i>
+                                                                            <i class="mr-1 text-violet-500      mdi mdi-map-marker"></i>
                                                                         </div>
                                                                         <p class="mb-0 text-gray-500 dark:text-gray-300">Oakridge Lane ssRichardson</p>
                                                                     </div>
@@ -66,7 +66,7 @@
                                                                 <!--end col-->
                                                                 <div class="col-span-12 lg:col-span-2">
                                                                     <div>
-                                                                        <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="group-data-[theme-color=violet]:text-violet-500     ">$</span>1000-1200/m</p>
+                                                                        <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="text-violet-500     ">$</span>1000-1200/m</p>
                                                                     </div>
                                                                 </div>
                                                                 <!--end col-->
@@ -107,8 +107,8 @@
                                                         </div>
                                                 </div>
 
-                                                <div class="relative mt-4 overflow-hidden transition-all duration-500 ease-in-out bg-white border rounded-md border-gray-100/50 group group-data-[theme-color=violet]:hover:border-violet-500      hover:-translate-y-2 dark:bg-neutral-900 dark:border-neutral-600">
-                                                    <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 group-data-[theme-color=violet]:bg-violet-500      p-[6px] text-center">
+                                                <div class="relative mt-4 overflow-hidden transition-all duration-500 ease-in-out bg-white border rounded-md border-gray-100/50 group hover:border-violet-500      hover:-translate-y-2 dark:bg-neutral-900 dark:border-neutral-600">
+                                                    <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 bg-violet-500      p-[6px] text-center">
                                                         <a href="javascript:void(0)" class="text-2xl text-white align-middle"><i class="mdi mdi-star"></i></a>
                                                     </div>
                                                     <div class="p-4">
@@ -130,7 +130,7 @@
                                                             <div class="col-span-12 lg:col-span-3">
                                                                 <div class="mb-2 lg:flex">
                                                                     <div class="flex-shrink-0">
-                                                                        <i class="mr-1 group-data-[theme-color=violet]:text-violet-500      mdi mdi-map-marker"></i>
+                                                                        <i class="mr-1 text-violet-500      mdi mdi-map-marker"></i>
                                                                     </div>
                                                                     <p class="mb-0 text-gray-500 dark:text-gray-300">Dodge City, Louisiana</p>
                                                                 </div>
@@ -138,7 +138,7 @@
                                                             <!--end col-->
                                                             <div class="col-span-12 lg:col-span-2">
                                                                 <div>
-                                                                    <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="group-data-[theme-color=violet]:text-violet-500     ">$</span>800-1800/m</p>
+                                                                    <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="text-violet-500     ">$</span>800-1800/m</p>
                                                                 </div>
                                                             </div>
                                                             <!--end col-->
@@ -180,8 +180,8 @@
                                                     </div>
                                                 </div>
 
-                                                <div class="relative mt-4 overflow-hidden transition-all duration-500 ease-in-out bg-white border rounded-md border-gray-100/50 group group-data-[theme-color=violet]:hover:border-violet-500      hover:-translate-y-2 dark:bg-neutral-900 dark:border-neutral-600">
-                                                    <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 group-data-[theme-color=violet]:bg-violet-500      p-[6px] text-center">
+                                                <div class="relative mt-4 overflow-hidden transition-all duration-500 ease-in-out bg-white border rounded-md border-gray-100/50 group hover:border-violet-500      hover:-translate-y-2 dark:bg-neutral-900 dark:border-neutral-600">
+                                                    <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 bg-violet-500      p-[6px] text-center">
                                                         <a href="javascript:void(0)" class="text-2xl text-white align-middle"><i class="mdi mdi-star"></i></a>
                                                     </div>
                                                     <div class="p-4">
@@ -203,7 +203,7 @@
                                                             <div class="col-span-12 lg:col-span-3">
                                                                 <div class="mb-2 lg:flex">
                                                                     <div class="flex-shrink-0">
-                                                                        <i class="mr-1 group-data-[theme-color=violet]:text-violet-500      mdi mdi-map-marker"></i>
+                                                                        <i class="mr-1 text-violet-500      mdi mdi-map-marker"></i>
                                                                     </div>
                                                                     <p class="mb-0 text-gray-500 dark:text-gray-300">Phoenix, Arizona</p>
                                                                 </div>
@@ -211,7 +211,7 @@
                                                             <!--end col-->
                                                             <div class="col-span-12 lg:col-span-2">
                                                                 <div>
-                                                                    <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="group-data-[theme-color=violet]:text-violet-500     ">$</span>1500-2400/m</p>
+                                                                    <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="text-violet-500     ">$</span>1500-2400/m</p>
                                                                 </div>
                                                             </div>
                                                             <!--end col-->
@@ -245,8 +245,8 @@
                                                     </div>
                                                 </div>
 
-                                                <div class="relative mt-4 overflow-hidden transition-all duration-500 ease-in-out bg-white border rounded-md border-gray-100/50 group/jobs group-data-[theme-color=violet]:hover:border-violet-500      hover:-translate-y-2 dark:bg-neutral-900 dark:border-neutral-600">
-                                                    <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 group-data-[theme-color=violet]:bg-violet-500/20 /20 /20 /20 /20 /20 group-data-[theme-color=violet]:group-hover/jobs:bg-violet-500      transition-all duration-500 ease-in-out p-[6px] text-center dark:bg-violet-500/20">
+                                                <div class="relative mt-4 overflow-hidden transition-all duration-500 ease-in-out bg-white border rounded-md border-gray-100/50 group/jobs hover:border-violet-500      hover:-translate-y-2 dark:bg-neutral-900 dark:border-neutral-600">
+                                                    <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 bg-violet-500/20 /20 /20 /20 /20 /20 group-hover/jobs:bg-violet-500      transition-all duration-500 ease-in-out p-[6px] text-center dark:bg-violet-500/20">
                                                         <a href="javascript:void(0)" class="text-2xl text-white align-middle"><i class="mdi mdi-star"></i></a>
                                                     </div>
                                                     <div class="p-4">
@@ -268,7 +268,7 @@
                                                             <div class="col-span-12 lg:col-span-3">
                                                                 <div class="mb-2 lg:flex">
                                                                     <div class="flex-shrink-0">
-                                                                        <i class="mr-1 group-data-[theme-color=violet]:text-violet-500      mdi mdi-map-marker"></i>
+                                                                        <i class="mr-1 text-violet-500      mdi mdi-map-marker"></i>
                                                                     </div>
                                                                     <p class="mb-0 text-gray-500 dark:text-gray-300">Escondido, California</p>
                                                                 </div>
@@ -276,7 +276,7 @@
                                                             <!--end col-->
                                                             <div class="col-span-12 lg:col-span-2">
                                                                 <div>
-                                                                    <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="group-data-[theme-color=violet]:text-violet-500     ">$</span>1000-1200/m</p>
+                                                                    <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="text-violet-500     ">$</span>1000-1200/m</p>
                                                                 </div>
                                                             </div>
                                                             <!--end col-->
@@ -317,7 +317,7 @@
                                         <div class="pt-8 ">
                                             <div class="space-y-8">
                                                 <div class="relative mt-4 overflow-hidden transition-all duration-500 ease-in-out bg-white border rounded-md border-gray-100/50 group      hover:-translate-y-2 dark:bg-neutral-900 dark:border-neutral-600">
-                                                    <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 group-data-[theme-color=violet]:bg-violet-500      p-[6px] text-center">
+                                                    <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 bg-violet-500      p-[6px] text-center">
                                                         <a href="javascript:void(0)" class="text-2xl text-white align-middle"><i class="mdi mdi-star"></i></a>
                                                     </div>
                                                     <div class="p-4">
@@ -339,7 +339,7 @@
                                                             <div class="col-span-12 lg:col-span-3">
                                                                 <div class="mb-2 lg:flex">
                                                                     <div class="flex-shrink-0">
-                                                                        <i class="mr-1 group-data-[theme-color=violet]:text-violet-500      mdi mdi-map-marker"></i>
+                                                                        <i class="mr-1 text-violet-500      mdi mdi-map-marker"></i>
                                                                     </div>
                                                                     <p class="mb-0 text-gray-500 dark:text-gray-300">Oakridge Lane Richardson</p>
                                                                 </div>
@@ -347,7 +347,7 @@
                                                             <!--end col-->
                                                             <div class="col-span-12 lg:col-span-2">
                                                                 <div>
-                                                                    <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="group-data-[theme-color=violet]:text-violet-500     ">$</span>1000-1200/m</p>
+                                                                    <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="text-violet-500     ">$</span>1000-1200/m</p>
                                                                 </div>
                                                             </div>
                                                             <!--end col-->
@@ -390,7 +390,7 @@
                                                 </div>
 
                                                 <div class="relative mt-4 overflow-hidden transition-all duration-500 ease-in-out bg-white border rounded-md border-gray-100/50 group/jobs      hover:-translate-y-2 dark:bg-neutral-900 dark:border-neutral-600">
-                                                        <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 group-data-[theme-color=violet]:bg-violet-500/20 /20 /20 /20 /20 /20 group-data-[theme-color=violet]:group-hover/jobs:bg-violet-500      transition-all duration-500 ease-in-out p-[6px] text-center dark:bg-violet-500/20">
+                                                        <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 bg-violet-500/20 /20 /20 /20 /20 /20 group-hover/jobs:bg-violet-500      transition-all duration-500 ease-in-out p-[6px] text-center dark:bg-violet-500/20">
                                                             <a href="javascript:void(0)" class="text-2xl text-white align-middle"><i class="mdi mdi-star"></i></a>
                                                         </div>
                                                         <div class="p-4">
@@ -412,7 +412,7 @@
                                                                 <div class="col-span-12 lg:col-span-3">
                                                                     <div class="mb-2 lg:flex">
                                                                         <div class="flex-shrink-0">
-                                                                            <i class="mr-1 group-data-[theme-color=violet]:text-violet-500      mdi mdi-map-marker"></i>
+                                                                            <i class="mr-1 text-violet-500      mdi mdi-map-marker"></i>
                                                                         </div>
                                                                         <p class="mb-0 text-gray-500 dark:text-gray-300">Dodge City, Louisiana</p>
                                                                     </div>
@@ -420,7 +420,7 @@
                                                                 <!--end col-->
                                                                 <div class="col-span-12 lg:col-span-2">
                                                                     <div>
-                                                                        <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="group-data-[theme-color=violet]:text-violet-500     ">$</span>800-1800/m</p>
+                                                                        <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="text-violet-500     ">$</span>800-1800/m</p>
                                                                     </div>
                                                                 </div>
                                                                 <!--end col-->
@@ -461,7 +461,7 @@
                                                 </div>
 
                                                 <div class="relative mt-4 overflow-hidden transition-all duration-500 ease-in-out bg-white border rounded-md border-gray-100/50 group      hover:-translate-y-2 dark:bg-neutral-900 dark:border-neutral-600">
-                                                    <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 group-data-[theme-color=violet]:bg-violet-500      p-[6px] text-center">
+                                                    <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 bg-violet-500      p-[6px] text-center">
                                                         <a href="javascript:void(0)" class="text-2xl text-white align-middle"><i class="mdi mdi-star"></i></a>
                                                     </div>
                                                     <div class="p-4">
@@ -483,7 +483,7 @@
                                                             <div class="col-span-12 lg:col-span-3">
                                                                 <div class="mb-2 lg:flex">
                                                                     <div class="flex-shrink-0">
-                                                                        <i class="mr-1 group-data-[theme-color=violet]:text-violet-500      mdi mdi-map-marker"></i>
+                                                                        <i class="mr-1 text-violet-500      mdi mdi-map-marker"></i>
                                                                     </div>
                                                                     <p class="mb-0 text-gray-500 dark:text-gray-300">Phoenix, Arizona</p>
                                                                 </div>
@@ -491,7 +491,7 @@
                                                             <!--end col-->
                                                             <div class="col-span-12 lg:col-span-2">
                                                                 <div>
-                                                                    <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="group-data-[theme-color=violet]:text-violet-500     ">$</span>1500-2400/m</p>
+                                                                    <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="text-violet-500     ">$</span>1500-2400/m</p>
                                                                 </div>
                                                             </div>
                                                             <!--end col-->
@@ -525,7 +525,7 @@
                                                 </div>
 
                                                 <div class="relative mt-4 overflow-hidden transition-all duration-500 ease-in-out bg-white border rounded-md border-gray-100/50 group/jobs      hover:-translate-y-2 dark:bg-neutral-900 dark:border-neutral-600">
-                                                    <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 group-data-[theme-color=violet]:bg-violet-500/20 /20 /20 /20 /20 /20 group-data-[theme-color=violet]:group-hover/jobs:bg-violet-500      transition-all duration-500 ease-in-out p-[6px] text-center dark:bg-violet-500/20">
+                                                    <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 bg-violet-500/20 /20 /20 /20 /20 /20 group-hover/jobs:bg-violet-500      transition-all duration-500 ease-in-out p-[6px] text-center dark:bg-violet-500/20">
                                                         <a href="javascript:void(0)" class="text-2xl text-white align-middle"><i class="mdi mdi-star"></i></a>
                                                     </div>
                                                     <div class="p-4">
@@ -547,7 +547,7 @@
                                                             <div class="col-span-12 lg:col-span-3">
                                                                 <div class="mb-2 lg:flex">
                                                                     <div class="flex-shrink-0">
-                                                                        <i class="mr-1 group-data-[theme-color=violet]:text-violet-500      mdi mdi-map-marker"></i>
+                                                                        <i class="mr-1 text-violet-500      mdi mdi-map-marker"></i>
                                                                     </div>
                                                                     <p class="mb-0 text-gray-500 dark:text-gray-300">Escondido, California</p>
                                                                 </div>
@@ -555,7 +555,7 @@
                                                             <!--end col-->
                                                             <div class="col-span-12 lg:col-span-2">
                                                                 <div>
-                                                                    <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="group-data-[theme-color=violet]:text-violet-500     ">$</span>1000-1200/m</p>
+                                                                    <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="text-violet-500     ">$</span>1000-1200/m</p>
                                                                 </div>
                                                             </div>
                                                             <!--end col-->
@@ -595,7 +595,7 @@
                                         <div class="pt-8 ">
                                             <div class="space-y-8">
                                                 <div class="relative mt-4 overflow-hidden transition-all duration-500 ease-in-out bg-white border rounded-md border-gray-100/50 group/jobs      hover:-translate-y-2 dark:bg-neutral-900 dark:border-neutral-600">
-                                                        <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 group-data-[theme-color=violet]:bg-violet-500/20 /20 /20 /20 /20 /20 group-data-[theme-color=violet]:group-hover/jobs:bg-violet-500      transition-all duration-500 ease-in-out p-[6px] text-center dark:bg-violet-500/20">
+                                                        <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 bg-violet-500/20 /20 /20 /20 /20 /20 group-hover/jobs:bg-violet-500      transition-all duration-500 ease-in-out p-[6px] text-center dark:bg-violet-500/20">
                                                             <a href="javascript:void(0)" class="text-2xl text-white align-middle"><i class="mdi mdi-star"></i></a>
                                                         </div>
                                                         <div class="p-4">
@@ -617,7 +617,7 @@
                                                                 <div class="col-span-12 lg:col-span-3">
                                                                     <div class="mb-2 lg:flex">
                                                                         <div class="flex-shrink-0">
-                                                                            <i class="mr-1 group-data-[theme-color=violet]:text-violet-500      mdi mdi-map-marker"></i>
+                                                                            <i class="mr-1 text-violet-500      mdi mdi-map-marker"></i>
                                                                         </div>
                                                                         <p class="mb-0 text-gray-500 dark:text-gray-300">Oakridge Lane Richardson</p>
                                                                     </div>
@@ -625,7 +625,7 @@
                                                                 <!--end col-->
                                                                 <div class="col-span-12 lg:col-span-2">
                                                                     <div>
-                                                                        <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="group-data-[theme-color=violet]:text-violet-500     ">$</span>1000-1200/m</p>
+                                                                        <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="text-violet-500     ">$</span>1000-1200/m</p>
                                                                     </div>
                                                                 </div>
                                                                 <!--end col-->
@@ -666,7 +666,7 @@
                                                 </div>
 
                                                 <div class="relative mt-4 overflow-hidden transition-all duration-500 ease-in-out bg-white border rounded-md border-gray-100/50 group/jobs      hover:-translate-y-2 dark:bg-neutral-900 dark:border-neutral-600">
-                                                    <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 group-data-[theme-color=violet]:bg-violet-500/20 /20 /20 /20 /20 /20 group-data-[theme-color=violet]:group-hover/jobs:bg-violet-500      transition-all duration-500 ease-in-out p-[6px] text-center dark:bg-violet-500/20">
+                                                    <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 bg-violet-500/20 /20 /20 /20 /20 /20 group-hover/jobs:bg-violet-500      transition-all duration-500 ease-in-out p-[6px] text-center dark:bg-violet-500/20">
                                                         <a href="javascript:void(0)" class="text-2xl text-white align-middle"><i class="mdi mdi-star"></i></a>
                                                     </div>
                                                     <div class="p-4">
@@ -688,7 +688,7 @@
                                                             <div class="col-span-12 lg:col-span-3">
                                                                 <div class="mb-2 lg:flex">
                                                                     <div class="flex-shrink-0">
-                                                                        <i class="mr-1 group-data-[theme-color=violet]:text-violet-500      mdi mdi-map-marker"></i>
+                                                                        <i class="mr-1 text-violet-500      mdi mdi-map-marker"></i>
                                                                     </div>
                                                                     <p class="mb-0 text-gray-500 dark:text-gray-300">Dodge City, Louisiana</p>
                                                                 </div>
@@ -696,7 +696,7 @@
                                                             <!--end col-->
                                                             <div class="col-span-12 lg:col-span-2">
                                                                 <div>
-                                                                    <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="group-data-[theme-color=violet]:text-violet-500     ">$</span>800-1800/m</p>
+                                                                    <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="text-violet-500     ">$</span>800-1800/m</p>
                                                                 </div>
                                                             </div>
                                                             <!--end col-->
@@ -737,7 +737,7 @@
                                                 </div>
 
                                                 <div class="relative mt-4 overflow-hidden transition-all duration-500 ease-in-out bg-white border rounded-md border-gray-100/50 group      hover:-translate-y-2 dark:bg-neutral-900 dark:border-neutral-600">
-                                                    <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 group-data-[theme-color=violet]:bg-violet-500      p-[6px] text-center">
+                                                    <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 bg-violet-500      p-[6px] text-center">
                                                         <a href="javascript:void(0)" class="text-2xl text-white align-middle"><i class="mdi mdi-star"></i></a>
                                                     </div>
                                                     <div class="p-4">
@@ -759,7 +759,7 @@
                                                             <div class="col-span-12 lg:col-span-3">
                                                                 <div class="mb-2 lg:flex">
                                                                     <div class="flex-shrink-0">
-                                                                        <i class="mr-1 group-data-[theme-color=violet]:text-violet-500      mdi mdi-map-marker"></i>
+                                                                        <i class="mr-1 text-violet-500      mdi mdi-map-marker"></i>
                                                                     </div>
                                                                     <p class="mb-0 text-gray-500 dark:text-gray-300">Phoenix, Arizona</p>
                                                                 </div>
@@ -767,7 +767,7 @@
                                                             <!--end col-->
                                                             <div class="col-span-12 lg:col-span-2">
                                                                 <div>
-                                                                    <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="group-data-[theme-color=violet]:text-violet-500     ">$</span>1500-2400/m</p>
+                                                                    <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="text-violet-500     ">$</span>1500-2400/m</p>
                                                                 </div>
                                                             </div>
                                                             <!--end col-->
@@ -801,7 +801,7 @@
                                                 </div>                           
 
                                                 <div class="relative mt-4 overflow-hidden transition-all duration-500 ease-in-out bg-white border rounded-md border-gray-100/50 group      hover:-translate-y-2 dark:bg-neutral-900 dark:border-neutral-600">
-                                                    <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 group-data-[theme-color=violet]:bg-violet-500      p-[6px] text-center">
+                                                    <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 bg-violet-500      p-[6px] text-center">
                                                         <a href="javascript:void(0)" class="text-2xl text-white align-middle"><i class="mdi mdi-star"></i></a>
                                                     </div>
                                                     <div class="p-4">
@@ -823,7 +823,7 @@
                                                             <div class="col-span-12 lg:col-span-3">
                                                                 <div class="mb-2 lg:flex">
                                                                     <div class="flex-shrink-0">
-                                                                        <i class="mr-1 group-data-[theme-color=violet]:text-violet-500      mdi mdi-map-marker"></i>
+                                                                        <i class="mr-1 text-violet-500      mdi mdi-map-marker"></i>
                                                                     </div>
                                                                     <p class="mb-0 text-gray-500 dark:text-gray-300">Escondido, California</p>
                                                                 </div>
@@ -831,7 +831,7 @@
                                                             <!--end col-->
                                                             <div class="col-span-12 lg:col-span-2">
                                                                 <div>
-                                                                    <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="group-data-[theme-color=violet]:text-violet-500     ">$</span>1500-2400/m</p>
+                                                                    <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="text-violet-500     ">$</span>1500-2400/m</p>
                                                                 </div>
                                                             </div>
                                                             <!--end col-->
@@ -871,7 +871,7 @@
                                         <div class="pt-8 ">
                                             <div class="space-y-8">
                                                 <div class="relative mt-4 overflow-hidden transition-all duration-500 ease-in-out bg-white border rounded-md border-gray-100/50 group      hover:-translate-y-2 dark:bg-neutral-900 dark:border-neutral-600">
-                                                    <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 group-data-[theme-color=violet]:bg-violet-500      p-[6px] text-center">
+                                                    <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 bg-violet-500      p-[6px] text-center">
                                                         <a href="javascript:void(0)" class="text-2xl text-white align-middle"><i class="mdi mdi-star"></i></a>
                                                     </div>
                                                     <div class="p-4">
@@ -893,7 +893,7 @@
                                                             <div class="col-span-12 lg:col-span-3">
                                                                 <div class="mb-2 lg:flex">
                                                                     <div class="flex-shrink-0">
-                                                                        <i class="mr-1 group-data-[theme-color=violet]:text-violet-500      mdi mdi-map-marker"></i>
+                                                                        <i class="mr-1 text-violet-500      mdi mdi-map-marker"></i>
                                                                     </div>
                                                                     <p class="mb-0 text-gray-500 dark:text-gray-300">Oakridge Lane Richardson</p>
                                                                 </div>
@@ -901,7 +901,7 @@
                                                             <!--end col-->
                                                             <div class="col-span-12 lg:col-span-2">
                                                                 <div>
-                                                                    <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="group-data-[theme-color=violet]:text-violet-500     ">$</span>1000-1200/m</p>
+                                                                    <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="text-violet-500     ">$</span>1000-1200/m</p>
                                                                 </div>
                                                             </div>
                                                             <!--end col-->
@@ -943,7 +943,7 @@
                                                 </div>
 
                                                 <div class="relative mt-4 overflow-hidden transition-all duration-500 ease-in-out bg-white border rounded-md border-gray-100/50 group/jobs      hover:-translate-y-2 dark:bg-neutral-900 dark:border-neutral-600">
-                                                        <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 group-data-[theme-color=violet]:bg-violet-500/20 /20 /20 /20 /20 /20 group-data-[theme-color=violet]:group-hover/jobs:bg-violet-500      transition-all duration-500 ease-in-out p-[6px] text-center dark:bg-violet-500/20">
+                                                        <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 bg-violet-500/20 /20 /20 /20 /20 /20 group-hover/jobs:bg-violet-500      transition-all duration-500 ease-in-out p-[6px] text-center dark:bg-violet-500/20">
                                                             <a href="javascript:void(0)" class="text-2xl text-white align-middle"><i class="mdi mdi-star"></i></a>
                                                         </div>
                                                         <div class="p-4">
@@ -965,7 +965,7 @@
                                                                 <div class="col-span-12 lg:col-span-3">
                                                                     <div class="mb-2 lg:flex">
                                                                         <div class="flex-shrink-0">
-                                                                            <i class="mr-1 group-data-[theme-color=violet]:text-violet-500      mdi mdi-map-marker"></i>
+                                                                            <i class="mr-1 text-violet-500      mdi mdi-map-marker"></i>
                                                                         </div>
                                                                         <p class="mb-0 text-gray-500 dark:text-gray-300">Dodge City, Louisiana</p>
                                                                     </div>
@@ -973,7 +973,7 @@
                                                                 <!--end col-->
                                                                 <div class="col-span-12 lg:col-span-2">
                                                                     <div>
-                                                                        <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="group-data-[theme-color=violet]:text-violet-500     ">$</span>800-1800/m</p>
+                                                                        <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="text-violet-500     ">$</span>800-1800/m</p>
                                                                     </div>
                                                                 </div>
                                                                 <!--end col-->
@@ -1015,7 +1015,7 @@
                                                 </div>
 
                                                  <div class="relative mt-4 overflow-hidden transition-all duration-500 ease-in-out bg-white border rounded-md border-gray-100/50 group      hover:-translate-y-2 dark:bg-neutral-900 dark:border-neutral-600">
-                                                    <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 group-data-[theme-color=violet]:bg-violet-500      p-[6px] text-center">
+                                                    <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 bg-violet-500      p-[6px] text-center">
                                                         <a href="javascript:void(0)" class="text-2xl text-white align-middle"><i class="mdi mdi-star"></i></a>
                                                     </div>
                                                     <div class="p-4">
@@ -1037,7 +1037,7 @@
                                                             <div class="col-span-12 lg:col-span-3">
                                                                 <div class="mb-2 lg:flex">
                                                                     <div class="flex-shrink-0">
-                                                                        <i class="mr-1 group-data-[theme-color=violet]:text-violet-500      mdi mdi-map-marker"></i>
+                                                                        <i class="mr-1 text-violet-500      mdi mdi-map-marker"></i>
                                                                     </div>
                                                                     <p class="mb-0 text-gray-500 dark:text-gray-300">Phoenix, Arizona</p>
                                                                 </div>
@@ -1045,7 +1045,7 @@
                                                             <!--end col-->
                                                             <div class="col-span-12 lg:col-span-2">
                                                                 <div>
-                                                                    <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="group-data-[theme-color=violet]:text-violet-500     ">$</span>1500-2400/m</p>
+                                                                    <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="text-violet-500     ">$</span>1500-2400/m</p>
                                                                 </div>
                                                             </div>
                                                             <!--end col-->
@@ -1079,7 +1079,7 @@
                                                 </div>
 
                                                 <div class="relative mt-4 overflow-hidden transition-all duration-500 ease-in-out bg-white border rounded-md border-gray-100/50 group/jobs      hover:-translate-y-2 dark:bg-neutral-900 dark:border-neutral-600">
-                                                    <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 group-data-[theme-color=violet]:bg-violet-500/20 /20 /20 /20 /20 /20 group-data-[theme-color=violet]:group-hover/jobs:bg-violet-500      transition-all duration-500 ease-in-out p-[6px] text-center dark:bg-violet-500/20">
+                                                    <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 bg-violet-500/20 /20 /20 /20 /20 /20 group-hover/jobs:bg-violet-500      transition-all duration-500 ease-in-out p-[6px] text-center dark:bg-violet-500/20">
                                                         <a href="javascript:void(0)" class="text-2xl text-white align-middle"><i class="mdi mdi-star"></i></a>
                                                     </div>
                                                     <div class="p-4">
@@ -1101,7 +1101,7 @@
                                                             <div class="col-span-12 lg:col-span-3">
                                                                 <div class="mb-2 lg:flex">
                                                                     <div class="flex-shrink-0">
-                                                                        <i class="mr-1 group-data-[theme-color=violet]:text-violet-500      mdi mdi-map-marker"></i>
+                                                                        <i class="mr-1 text-violet-500      mdi mdi-map-marker"></i>
                                                                     </div>
                                                                     <p class="mb-0 text-gray-500 dark:text-gray-300">Escondido, California</p>
                                                                 </div>
@@ -1109,7 +1109,7 @@
                                                             <!--end col-->
                                                             <div class="col-span-12 lg:col-span-2">
                                                                 <div>
-                                                                    <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="group-data-[theme-color=violet]:text-violet-500     ">$</span>1000-1200/m</p>
+                                                                    <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="text-violet-500     ">$</span>1000-1200/m</p>
                                                                 </div>
                                                             </div>
                                                             <!--end col-->
@@ -1152,7 +1152,7 @@
                                         <div class="pt-8 ">
                                             <div class="space-y-8">
                                                 <div class="relative mt-4 overflow-hidden transition-all duration-500 ease-in-out bg-white border rounded-md border-gray-100/50 group      hover:-translate-y-2 dark:bg-neutral-900 dark:border-neutral-600">
-                                                    <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 group-data-[theme-color=violet]:bg-violet-500      p-[6px] text-center">
+                                                    <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 bg-violet-500      p-[6px] text-center">
                                                         <a href="javascript:void(0)" class="text-2xl text-white align-middle"><i class="mdi mdi-star"></i></a>
                                                     </div>
                                                     <div class="p-4">
@@ -1174,7 +1174,7 @@
                                                             <div class="col-span-12 lg:col-span-3">
                                                                 <div class="mb-2 lg:flex">
                                                                     <div class="flex-shrink-0">
-                                                                        <i class="mr-1 group-data-[theme-color=violet]:text-violet-500      mdi mdi-map-marker"></i>
+                                                                        <i class="mr-1 text-violet-500      mdi mdi-map-marker"></i>
                                                                     </div>
                                                                     <p class="mb-0 text-gray-500 dark:text-gray-300">Oakridge Lane Richardson</p>
                                                                 </div>
@@ -1182,7 +1182,7 @@
                                                             <!--end col-->
                                                             <div class="col-span-12 lg:col-span-2">
                                                                 <div>
-                                                                    <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="group-data-[theme-color=violet]:text-violet-500     ">$</span>1000-1200/m</p>
+                                                                    <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="text-violet-500     ">$</span>1000-1200/m</p>
                                                                 </div>
                                                             </div>
                                                             <!--end col-->
@@ -1224,7 +1224,7 @@
                                                 </div>
 
                                                <div class="relative mt-4 overflow-hidden transition-all duration-500 ease-in-out bg-white border rounded-md border-gray-100/50 group      hover:-translate-y-2 dark:bg-neutral-900 dark:border-neutral-600">
-                                                    <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 group-data-[theme-color=violet]:bg-violet-500      p-[6px] text-center">
+                                                    <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 bg-violet-500      p-[6px] text-center">
                                                         <a href="javascript:void(0)" class="text-2xl text-white align-middle"><i class="mdi mdi-star"></i></a>
                                                     </div>
                                                     <div class="p-4">
@@ -1246,7 +1246,7 @@
                                                             <div class="col-span-12 lg:col-span-3">
                                                                 <div class="mb-2 lg:flex">
                                                                     <div class="flex-shrink-0">
-                                                                        <i class="mr-1 group-data-[theme-color=violet]:text-violet-500      mdi mdi-map-marker"></i>
+                                                                        <i class="mr-1 text-violet-500      mdi mdi-map-marker"></i>
                                                                     </div>
                                                                     <p class="mb-0 text-gray-500 dark:text-gray-300">Dodge City, Louisiana</p>
                                                                 </div>
@@ -1254,7 +1254,7 @@
                                                             <!--end col-->
                                                             <div class="col-span-12 lg:col-span-2">
                                                                 <div>
-                                                                    <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="group-data-[theme-color=violet]:text-violet-500     ">$</span>800-1800/m</p>
+                                                                    <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="text-violet-500     ">$</span>800-1800/m</p>
                                                                 </div>
                                                             </div>
                                                             <!--end col-->
@@ -1296,7 +1296,7 @@
                                                 </div>
 
                                                 <div class="relative mt-4 overflow-hidden transition-all duration-500 ease-in-out bg-white border rounded-md border-gray-100/50 group/jobs      hover:-translate-y-2 dark:bg-neutral-900 dark:border-neutral-600">
-                                                    <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 group-data-[theme-color=violet]:bg-violet-500/20 /20 /20 /20 /20 /20 group-data-[theme-color=violet]:group-hover/jobs:bg-violet-500      transition-all duration-500 ease-in-out p-[6px] text-center dark:bg-violet-500/20">
+                                                    <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 bg-violet-500/20 /20 /20 /20 /20 /20 group-hover/jobs:bg-violet-500      transition-all duration-500 ease-in-out p-[6px] text-center dark:bg-violet-500/20">
                                                         <a href="javascript:void(0)" class="text-2xl text-white align-middle"><i class="mdi mdi-star"></i></a>
                                                     </div>
                                                     <div class="p-4">
@@ -1318,7 +1318,7 @@
                                                             <div class="col-span-12 lg:col-span-3">
                                                                 <div class="mb-2 lg:flex">
                                                                     <div class="flex-shrink-0">
-                                                                        <i class="mr-1 group-data-[theme-color=violet]:text-violet-500      mdi mdi-map-marker"></i>
+                                                                        <i class="mr-1 text-violet-500      mdi mdi-map-marker"></i>
                                                                     </div>
                                                                     <p class="mb-0 text-gray-500 dark:text-gray-300">Phoenix, Arizona</p>
                                                                 </div>
@@ -1326,7 +1326,7 @@
                                                             <!--end col-->
                                                             <div class="col-span-12 lg:col-span-2">
                                                                 <div>
-                                                                    <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="group-data-[theme-color=violet]:text-violet-500     ">$</span>1500-2400/m</p>
+                                                                    <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="text-violet-500     ">$</span>1500-2400/m</p>
                                                                 </div>
                                                             </div>
                                                             <!--end col-->
@@ -1360,7 +1360,7 @@
                                                 </div>
 
                                                 <div class="relative mt-4 overflow-hidden transition-all duration-500 ease-in-out bg-white border rounded-md border-gray-100/50 group/jobs      hover:-translate-y-2 dark:bg-neutral-900 dark:border-neutral-600">
-                                                    <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 group-data-[theme-color=violet]:bg-violet-500/20 /20 /20 /20 /20 /20 group-data-[theme-color=violet]:group-hover/jobs:bg-violet-500      transition-all duration-500 ease-in-out p-[6px] text-center dark:bg-violet-500/20">
+                                                    <div class="w-48 absolute -top-[5px] -left-20 -rotate-45 bg-violet-500/20 /20 /20 /20 /20 /20 group-hover/jobs:bg-violet-500      transition-all duration-500 ease-in-out p-[6px] text-center dark:bg-violet-500/20">
                                                         <a href="javascript:void(0)" class="text-2xl text-white align-middle"><i class="mdi mdi-star"></i></a>
                                                     </div>
                                                     <div class="p-4">
@@ -1382,7 +1382,7 @@
                                                             <div class="col-span-12 lg:col-span-3">
                                                                 <div class="mb-2 lg:flex">
                                                                     <div class="flex-shrink-0">
-                                                                        <i class="mr-1 group-data-[theme-color=violet]:text-violet-500      mdi mdi-map-marker"></i>
+                                                                        <i class="mr-1 text-violet-500      mdi mdi-map-marker"></i>
                                                                     </div>
                                                                     <p class="mb-0 text-gray-500 dark:text-gray-300">Escondido, California</p>
                                                                 </div>
@@ -1390,7 +1390,7 @@
                                                             <!--end col-->
                                                             <div class="col-span-12 lg:col-span-2">
                                                                 <div>
-                                                                    <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="group-data-[theme-color=violet]:text-violet-500     ">$</span>1000-1200/m</p>
+                                                                    <p class="mb-2 text-gray-500 dark:text-gray-300"><span class="text-violet-500     ">$</span>1000-1200/m</p>
                                                                 </div>
                                                             </div>
                                                             <!--end col-->
@@ -1433,7 +1433,7 @@
                             <div class="mt-8">
                                 <div class="grid grid-cols-1">
                                     <div class="text-center">
-                                        <a href="job-categories.html" class="text-white border-transparent group-data-[theme-color=violet]:bg-violet-500      btn focus:ring focus:ring-custom-500/20">View More  <i class="uil uil-arrow-right ms-1"></i></a>
+                                        <a href="job-categories.html" class="text-white border-transparent bg-violet-500      btn focus:ring focus:ring-custom-500/20">View More  <i class="uil uil-arrow-right ms-1"></i></a>
                                     </div>
                                 </div>
                             </div>

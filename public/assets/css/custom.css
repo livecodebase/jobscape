@@ -687,6 +687,6 @@
   -webkit-transition: all 0.5s ease;
   transition: all 0.5s ease;
 }
-.group[data-theme-color=violet] .group-data-\[theme-color\=violet\]\:bg-violet-500 {
+.group .group-data-\[theme-color\=violet\]\:bg-violet-500 {
   background-color: rgb(129 93 242 / 1) !important;
 }

@@ -27,7 +27,7 @@
                     class="p-2 dropdown-item group/dropdown dark:text-gray-300"
                   >
                     <a
-                      class="text-15 font-medium text-gray-800 group-data-[theme-color=violet]:group-hover/dropdown:text-violet-500 group-hover:pl-1.5 transition-all duration-300 ease-in dark:text-gray-50"
+                      class="text-15 font-medium text-gray-800 group-hover/dropdown:text-violet-500 group-hover:pl-1.5 transition-all duration-300 ease-in dark:text-gray-50"
                       href="manage-jobs.html"
                       >Manage Jobs</a
                     >
@@ -36,7 +36,7 @@
                     class="p-2 dropdown-item group/dropdown dark:text-gray-300"
                   >
                     <a
-                      class="text-15 font-medium text-gray-800 group-data-[theme-color=violet]:group-hover/dropdown:text-violet-500 group-hover:pl-1.5 transition-all duration-300 ease-in dark:text-gray-50"
+                      class="text-15 font-medium text-gray-800 group-hover/dropdown:text-violet-500 group-hover:pl-1.5 transition-all duration-300 ease-in dark:text-gray-50"
                       href="bookmark-jobs.html"
                       >Bookmarks Jobs</a
                     >
@@ -45,7 +45,7 @@
                     class="p-2 dropdown-item group/dropdown dark:text-gray-300"
                   >
                     <a
-                      class="text-15 font-medium text-gray-800 group-data-[theme-color=violet]:group-hover/dropdown:text-violet-500 group-hover:pl-1.5 transition-all duration-300 ease-in dark:text-gray-50"
+                      class="text-15 font-medium text-gray-800 group-hover/dropdown:text-violet-500 group-hover:pl-1.5 transition-all duration-300 ease-in dark:text-gray-50"
                       href="profile.html"
                       >My Profile</a
                     >
@@ -54,7 +54,7 @@
                     class="p-2 dropdown-item group/dropdown dark:text-gray-300"
                   >
                     <a
-                      class="text-15 font-medium text-gray-800 group-data-[theme-color=violet]:group-hover/dropdown:text-violet-500  group-hover:pl-1.5 transition-all duration-300 ease-in dark:text-gray-50"
+                      class="text-15 font-medium text-gray-800 group-hover/dropdown:text-violet-500  group-hover:pl-1.5 transition-all duration-300 ease-in dark:text-gray-50"
                       href="sign-out.html"
                       >Logout</a
                     >

@@ -1,5 +1,5 @@
 <template>
-    <section class="relative py-16 overflow-hidden bg-zinc-700 dark:bg-neutral-900">
+    <section class="relative py-16 overflow-hidden bg-slate-800">
             <div class="container mx-auto">
                 <div class="grid items-center grid-cols-12 gap-5">
                     <div class="col-span-12 lg:col-span-7">
@@ -11,9 +11,9 @@
                     <div class="z-40 col-span-12 lg:col-span-5">
                         <form class="flex" action="#">
                             <input
-                                type="text" class="w-full text-gray-100 bg-transparent rounded-md border-gray-50/30 ltr:border-r-0 rtl:border-l-0 ltr:rounded-r-none rtl:rounded-l-none placeholder:text-13 placeholder:text-gray-100 dark:text-gray-100 dark:bg-white/5 dark:border-neutral-600 focus:ring-0 focus:ring-offset-0"
+                                type="text" class="ps-3 w-full text-gray-100 bg-transparent rounded-md border border-gray-50/30 border-r-0  rounded-r-none placeholder:text-13 placeholder:text-gray-100 focus:ring-0 focus:ring-offset-0"
                                 id="subscribe" placeholder="Enter your email" >
-                            <button class="text-white border-transparent btn ltr:rounded-l-none rtl:rounded-r-none bg-violet-500 focus:ring focus:ring-custom-500/30" type="button" id="subscribebtn">Subscribe</button>
+                            <button class="text-white border-transparent btn rounded-l-none  bg-violet-500 focus:ring focus:ring-custom-500/30" type="button" id="subscribebtn">Subscribe</button>
                         </form>
                     </div>
                 </div>
@@ -24,7 +24,7 @@
         </section>
         <footer class="footer ">
             <!-- start footer -->
-            <section class="py-12 bg-zinc-800 dark:bg-neutral-900">
+            <section class="py-12 bg-slate-900">
                 <div class="container mx-auto">
                     <div class="grid grid-cols-12 lg:gap-10">
                         <div class="col-span-12 xl:col-span-4">
@@ -37,22 +37,22 @@
                                 <p class="mt-3 text-white dark:text-gray-50">Follow Us on:</p>
                                 <div class="mt-5">
                                     <ul class="flex gap-3">
-                                        <li class="w-8 h-8 leading-loose text-center text-gray-200 transition-all duration-300 border rounded-full cursor-pointer border-gray-200/50 hover:text-gray-50 group-data-[theme-color=violet]:hover:bg-violet-500      hover:border-transparent">
+                                        <li class="w-8 h-8 leading-loose text-center text-gray-200 transition-all duration-300 border rounded-full cursor-pointer border-gray-200/50 hover:text-gray-50 hover:bg-violet-500      hover:border-transparent">
                                             <a href="#">
                                                 <i class="uil uil-facebook-f"></i>
                                             </a>
                                         </li>
-                                        <li class="w-8 h-8 leading-loose text-center text-gray-200 transition-all duration-300 border rounded-full cursor-pointer border-gray-200/50 hover:text-gray-50 group-data-[theme-color=violet]:hover:bg-violet-500      hover:border-transparent">
+                                        <li class="w-8 h-8 leading-loose text-center text-gray-200 transition-all duration-300 border rounded-full cursor-pointer border-gray-200/50 hover:text-gray-50 hover:bg-violet-500      hover:border-transparent">
                                             <a href="#">
                                                 <i class="uil uil-linkedin-alt"></i>
                                             </a>
                                         </li>
-                                        <li class="w-8 h-8 leading-loose text-center text-gray-200 transition-all duration-300 border rounded-full cursor-pointer border-gray-200/50 hover:text-gray-50 group-data-[theme-color=violet]:hover:bg-violet-500      hover:border-transparent">
+                                        <li class="w-8 h-8 leading-loose text-center text-gray-200 transition-all duration-300 border rounded-full cursor-pointer border-gray-200/50 hover:text-gray-50 hover:bg-violet-500      hover:border-transparent">
                                             <a href="#">
                                                 <i class="uil uil-google"></i>
                                             </a>
                                         </li>
-                                        <li class="w-8 h-8 leading-loose text-center text-gray-200 transition-all duration-300 border rounded-full cursor-pointer border-gray-200/50 hover:text-gray-50 group-data-[theme-color=violet]:hover:bg-violet-500      hover:border-transparent">
+                                        <li class="w-8 h-8 leading-loose text-center text-gray-200 transition-all duration-300 border rounded-full cursor-pointer border-gray-200/50 hover:text-gray-50 hover:bg-violet-500      hover:border-transparent">
                                             <a href="#">
                                                 <i class="uil uil-twitter"></i>
                                             </a>
@@ -166,7 +166,7 @@
             </section>
             <!-- end footer -->
             <!-- strat footer alt -->
-            <section class="py-6 border-t bg-zinc-800 border-gray-100/10 dark:bg-neutral-900">
+            <section class="py-6 border-t bg-slate-900 border-gray-100/10 ">
                 <div class="container mx-auto">
                     <div class="text-center">
                         <p class="mb-0 text-center text-white/50">

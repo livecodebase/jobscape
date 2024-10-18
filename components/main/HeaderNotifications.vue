@@ -236,7 +236,7 @@
             class="grid p-1 border-t border-gray-50 dark:border-zinc-600 justify-items-center bg-gray-50 dark:bg-neutral-700"
           >
             <a
-              class="border-0 group-data-[theme-color=violet]:text-violet-500 btn dark:text-gray-50"
+              class="border-0 text-violet-500 btn dark:text-gray-50"
               href="javascript:void(0)"
             >
               <i class="mr-1 mdi mdi-arrow-right-circle"></i>

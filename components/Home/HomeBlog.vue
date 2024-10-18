@@ -30,7 +30,7 @@
                                             </a>
                                             <p class="mb-3 text-gray-500 dark:text-gray-300">The final text is not yet avaibookmark-label. Dummy texts have Internet tend
                                                 been in use by typesetters.</p>
-                                            <a href="blog-details.html" class="font-medium group-data-[theme-color=violet]:text-violet-500     ">Read more <i class="align-middle mdi mdi-chevron-right"></i></a>
+                                            <a href="blog-details.html" class="font-medium text-violet-500     ">Read more <i class="align-middle mdi mdi-chevron-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -55,7 +55,7 @@
                                                 <h5 class="mb-1 text-gray-900 fs-17 dark:text-gray-50">Smartest Applications for Business ?</h5>
                                             </a>
                                             <p class="mb-3 text-gray-500 dark:text-gray-300">Due to its widespread use as filler text for layouts, non-readability is of great importance: human perception.</p>
-                                            <a href="blog-details.html" class="font-medium group-data-[theme-color=violet]:text-violet-500     ">Read more <i class="align-middle mdi mdi-chevron-right"></i></a>
+                                            <a href="blog-details.html" class="font-medium text-violet-500     ">Read more <i class="align-middle mdi mdi-chevron-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -80,7 +80,7 @@
                                                 <h5 class="mb-1 text-gray-900 fs-17 dark:text-gray-50">Design your apps in your own way ?</h5>
                                             </a>
                                             <p class="mb-3 text-gray-500 dark:text-gray-300">One disadvantage of Lorum Ipsum is that in Latin certain letters appear more frequently than others.</p>
-                                            <a href="blog-details.html" class="font-medium group-data-[theme-color=violet]:text-violet-500     ">Read more <i class="align-middle mdi mdi-chevron-right"></i></a>
+                                            <a href="blog-details.html" class="font-medium text-violet-500     ">Read more <i class="align-middle mdi mdi-chevron-right"></i></a>
                                         </div>
                                     </div>
                                 </div>
