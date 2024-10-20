@@ -170,7 +170,7 @@
                 <div class="container mx-auto">
                     <div class="text-center">
                         <p class="mb-0 text-center text-white/50">
-                            2024 © Jobscape
+                             {{ new Date().getFullYear() }} © Jobscape
                         </p>
                     </div>
                 </div>
