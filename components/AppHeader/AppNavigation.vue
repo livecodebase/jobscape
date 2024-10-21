@@ -58,6 +58,15 @@
           >Companies
         </a>
       </li>
+      <!-- Add login button -->
+      <li class="py-5 lg:px-4">
+        <NuxtLink
+          to="/login"
+          class="py-2 px-4 bg-violet-500 text-white rounded-md hover:bg-violet-600 transition-colors duration-300"
+        >
+          Login
+        </NuxtLink>
+      </li>
     </ul>
   </div>
 </template>
