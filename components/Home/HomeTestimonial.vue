@@ -40,7 +40,7 @@
                                             <div class="swiper-slide">
                                                 <div class="text-center">
                                                     <div class="mb-4">
-                                                        <img src="/assets/images/logo/instagram.svg" class="h-12 mx-auto" alt="" />
+                                                        <img src="/assets/images/logo/Instagram.svg" class="h-12 mx-auto" alt="" />
                                                     </div>
                                                     <p class="mb-4 text-lg font-thin text-gray-500 dark:text-gray-200">" Very well thought out and articulate communication.
                                                         Clear milestones, deadlines and fast work. Patience. Infinite patience. No
