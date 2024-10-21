@@ -272,17 +272,6 @@
                                                         </div>
                                                     </div><!--end col-->
                                                     <div class="col-span-12 xl:col-span-3">
-                                                        <div class="mt-3 filter-search-form mt-lg-0">
-                                                            <i class="uil uil-clipboard-notes"></i>
-                                                            <select class="form-select" data-trigger name="choices-single-categories" id="choices-single-categories" aria-label="Default select example">
-                                                                <option value="4">Accounting</option>
-                                                                <option value="1">IT & Software</option>
-                                                                <option value="3">Marketing</option>
-                                                                <option value="5">Banking</option>
-                                                            </select>
-                                                        </div>
-                                                    </div><!--end col-->
-                                                    <div class="col-span-12 xl:col-span-3">
                                                         <div class="h-full mt-3">
                                                             <button class="btn bg-violet-400 border rounded-lg border-transparent ltr:xl:rounded-l-none rtl:xl:rounded-r-none w-full py-[18px] text-white" type="submit"><i class="uil uil-search me-1"></i> Find Job</button>
                                                         </div>
